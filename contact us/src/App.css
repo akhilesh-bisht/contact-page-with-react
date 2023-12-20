@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Poppins:ital,wght@0,400;0,500;0,600;1,200&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(to right, #ffcc00, #3366ff);
+}
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.main_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90vh;
+  margin-top: 30px;
+}

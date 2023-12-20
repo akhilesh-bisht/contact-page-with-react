@@ -1,0 +1,13 @@
+.contactSections {
+  margin: 0 auto;
+  padding: 12px;
+}
+
+.contactSections h1 {
+  font-size: 48px;
+  font-weight: 800;
+}
+.contactSections p {
+  font-weight: 500;
+  width: 975px;
+}
